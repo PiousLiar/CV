@@ -13,7 +13,7 @@
 }
 
 .main-content {
-    width: 730px;
+    width: 830px;
     margin-left: 88px;
     margin-top: 80px;
 }
@@ -26,6 +26,7 @@ body {
 
 .profile-pic {
     width: 370px;
+    height: 370px;
 }
 
 .section-title {
