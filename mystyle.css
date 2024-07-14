@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    max-width: 1200px;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar {
+    width: 370px;
+    background-color: #E0EBFE;
+    padding: 20px;
+}
+
+.main-content {
+    width: 730px;
+    margin-left: 88px;
+    margin-top: 80px;
+}
+
+body {
+    font-family: Montserrat; 
+    background-color: #ffffff;
+    color: #333;
+}
+
+.profile-pic {
+    width: 370px;
+}
+
+.section-title {
+    font-weight: bold;
+}
+
+.contact, .skills, .soft-skills {
+    margin-left: 40px;
+}
+
+h3 {
+    color: #333;
+}
+
+.list-item {
+    color: #595959;
+}
